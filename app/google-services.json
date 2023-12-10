@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1039681246024",
+    "firebase_url": "https://carcompanion-cffa6-default-rtdb.firebaseio.com",
+    "project_id": "carcompanion-cffa6",
+    "storage_bucket": "carcompanion-cffa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039681246024:android:ee47c278cbdc359249997d",
+        "android_client_info": {
+          "package_name": "com.example.carcompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039681246024-upclp7b2mjbc1o79l1cscbr3v7uecoel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrtUccuHpZ8lFJYCq-vHybRwbo2u92aig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039681246024-upclp7b2mjbc1o79l1cscbr3v7uecoel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
